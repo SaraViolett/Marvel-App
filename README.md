@@ -33,6 +33,8 @@ This project is a full-stack web application that allows users to view, add, upd
 
 ## How to Run the Application
 
+1. Clone repository
+
 ### Backend
 1. Navigate to the `backend` directory.
 2. Create a virtual environment:
