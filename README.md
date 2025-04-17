@@ -70,19 +70,5 @@ Database Setup
 Ensure MySQL is installed and running.
 The database will be created automatically when the Flask server starts, using the create_database function in server.py. Pre-populated character data is available in marvel_characters.sql.
 
-Folder Structure
-.
-├── backend/
-│   ├── marvel_characters.sql
-│   ├── requirements.txt
-│   └── server.py
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   └── App.jsx
-│   ├── package.json
-│   └── vite.config.js
-└── README.md
 
 
