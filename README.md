@@ -55,7 +55,7 @@ This project is a full-stack web application that allows users to view, add, upd
 5. Run the Flask server:
 - server.py
 
-Frontend
+### Frontend
 1. Navigate to the `frontend` directory.
 2. Install dependencies:
     ```bash
@@ -66,7 +66,7 @@ Frontend
         npm run dev
     ```
 
-Database Setup
+### Database Setup
 Ensure MySQL is installed and running.
 The database will be created automatically when the Flask server starts, using the create_database function in server.py. Pre-populated character data is available in marvel_characters.sql.
 
